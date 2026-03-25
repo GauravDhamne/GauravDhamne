@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Analyst with a strong Computer Science background and hands-on experience in SQL, Python, <br>and business intelligence tools. Skilled in data cleaning, exploratory data analysis (EDA), visualization, <br>and building scalable analytical workflows to support data-driven decision-making.
+Data Analyst with a Strong Computer Science background and practical experience in SQL, Python Scripting, and business intelligence tools. Skilled in data cleaning, (EDA), visualization, and building scalable analytical workflows to support strategic decision-making and business performance.
 
 
 ## 🌐 Socials:
