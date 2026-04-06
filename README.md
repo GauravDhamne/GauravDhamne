@@ -10,7 +10,7 @@
 
 # 🎯 About Me :
 <p style="font-family:verdana">
-I'm a Data Science enthusiast driven by curiosity and a passion for solving complex data challenges. As an MCA graduate (2026), I specialize in Machine Learning and Deep Learning, backed by strong knowledge in Statistics and Calculus to build data-driven solutions.
+I'm a Data Science enthusiast and MCA postgraduate with practical experience in Machine Learning and Deep Learning. Strong foundation in Statistics and Calculus, with the ability to analyze data and build predictive models to solve real-world problems.
 </p>
 
 </p>
@@ -62,7 +62,7 @@ I'm a Data Science enthusiast driven by curiosity and a passion for solving comp
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="center">
- <h2 align="center">Made with :heart: &nbsp;by Gaurav Dhamne </h2>
+<h2 align="center">Crafted with passion for data by Gaurav Dhamne</h2>
   <br />
   <br />
 </p>
