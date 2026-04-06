@@ -1,5 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=7B68EE&amp;height120&amp;section=header"></div></div> 
 <h2> About Me <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&amp;rid=giphy.gif" width="100px"></h2>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 Data Analyst with a Strong Computer Science background and practical experience in SQL, Python Scripting, and business intelligence tools. Skilled in data cleaning, (EDA), visualization, and building scalable analytical workflows to support strategic decision-making and business performance.
 
