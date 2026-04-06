@@ -8,12 +8,14 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+<!--About-->
 # 🎯 About Me :
 <p style="font-family:verdana">
 I'm a Data Science enthusiast and MCA postgraduate with practical experience in Machine Learning and Deep Learning. Strong foundation in Statistics and Calculus, with the ability to analyze data and build predictive models to solve real-world problems.
 </p>
 
 </p>
+
 <!--social media-->
 <div align="center">
 
@@ -30,6 +32,7 @@ I'm a Data Science enthusiast and MCA postgraduate with practical experience in 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+<!--Languages and Tools-->
 # 🚀 Languages and Tools:
 <div align="center">
    <h2>Languages:</h2> 
@@ -47,13 +50,13 @@ I'm a Data Science enthusiast and MCA postgraduate with practical experience in 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+<!--Stats-->
 # 📈  Stats:
  
 <p align = "center">
   <img src = "https://github-readme-stats-sigma-five.vercel.app/api?username=GauravDhamne&show_icons=true&theme=radical&line_height=27">
  
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravDhamne&theme=radical" />
- </p>
+</p>
  
  <p align = "center">
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=GauravDhamne&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
