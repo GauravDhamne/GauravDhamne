@@ -52,7 +52,7 @@ I'm a Data Science enthusiast and MCA postgraduate with practical experience in 
 <p align = "center">
   <img src = "https://github-readme-stats-sigma-five.vercel.app/api?username=GauravDhamne&show_icons=true&theme=radical&line_height=27">
  
-  <img src = "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GauravDhamne9&theme=radical">
+
  </p>
  
  <p align = "center">
