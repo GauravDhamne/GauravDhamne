@@ -1,9 +1,17 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=7B68EE&amp;height120&amp;section=header"></div></div> 
-<h2> About Me <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&amp;rid=giphy.gif" width="100px"></h2>
+![Profile Views](https://komarev.com/ghpvc/?username=GauravDhamne&color=blue)
+
+<div align= "center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=1000&pause=1500&center=true&vCenter=true&width=500&height=100&lines=Hi++%F0%9F%91%8B+.+.+.;I'm+Gaurav++Dhamne...;I%E2%80%99m+Data+Enthusiast..;Checkout+my+Github+Profile+%E2%9D%A4%EF%B8%8F.)](https://git.io/typing-svg)
+</div>
+
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-Data Analyst with a Strong Computer Science background and practical experience in SQL, Python Scripting, and business intelligence tools. Skilled in data cleaning, (EDA), visualization, and building scalable analytical workflows to support strategic decision-making and business performance.
-
+# 🎯 About Me :
+<p style="font-family:verdana">
+I'm a Data Science enthusiast driven by curiosity and a passion for solving complex data challenges. As an MCA graduate (2026), I specialize in Machine Learning and Deep Learning, backed by strong knowledge in Statistics and Calculus to build data-driven solutions.
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gaurav_dhamne_) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@DD_2121_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gauravdhamne5@gmail.com) 
