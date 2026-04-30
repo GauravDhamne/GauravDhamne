@@ -24,7 +24,7 @@ I'm a Data Science enthusiast and MCA postgraduate with practical experience in 
  </a>
  
   
-<a href="https://www.linkedin.com/in/gaurav-dhamne-data-enthusiast" target="blank">
+> <a href="https://www.linkedin.com/in/gaurav-dhamne-data-enthusiast" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Zeyad Usf" height="30" width="40" />
   </a>
 
