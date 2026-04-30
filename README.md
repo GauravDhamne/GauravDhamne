@@ -1,5 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>"></div></div> 
-![Profile Views](https://komarev.com/ghpvc/?username=GauravDhamne&color=green)
+>![Profile Views](https://komarev.com/ghpvc/?username=GauravDhamne&color=green)
 
 <div align= "center">
   
@@ -22,6 +22,7 @@ I'm a Data Science enthusiast and MCA postgraduate with practical experience in 
  <a href="https://github.com/GauravDhamne" target="blank">
    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="zeyadusf" height="30" width="40" />
  </a>
+ 
   
 <a href="https://www.linkedin.com/in/gaurav-dhamne-data-enthusiast" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Zeyad Usf" height="30" width="40" />
