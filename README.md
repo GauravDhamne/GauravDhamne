@@ -1,4 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=7B68EE&amp;height120&amp;section=header"></div></div> 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>"></div></div> 
+
 ![Profile Views](https://komarev.com/ghpvc/?username=GauravDhamne&color=green)
 
 <div align= "center">
@@ -70,4 +71,4 @@ I'm a Data Science enthusiast and MCA postgraduate with practical experience in 
   <br />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=7B68EE&amp;height=120&amp;section=footer"></div></div> 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>"></div></div> 
