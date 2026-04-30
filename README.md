@@ -1,5 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>"></div></div> 
-![Profile Views](https://komarev.com/ghpvc/?username=GauravDhamne&color=green)
+[Profile Views](https://komarev.com/ghpvc/?username=GauravDhamne&color=green)
 
 <div align= "center">
   
