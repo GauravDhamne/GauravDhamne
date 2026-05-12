@@ -13,7 +13,6 @@
 <p style="font-family:verdana">
 I'm a Data Science enthusiast and MCA postgraduate with practical experience in Machine Learning and Deep Learning. Strong foundation in Statistics and Calculus, with the ability to analyze data and build predictive models to solve real-world problems.
 </p>
-
 </p>
 
 <!--social media-->
