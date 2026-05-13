@@ -11,7 +11,12 @@
 <!--About-->
 # 🎯 About Me :
 <p style="font-family:verdana">
-I'm a Data Science enthusiast and MCA postgraduate with practical experience in Machine Learning and Deep Learning. Strong foundation in Statistics and Calculus, with the ability to analyze data and build predictive models to solve real-world problems.
+Aspiring Data Analyst | MCA @ Bharati Vidyapeeth, Pune (CGPA 8.72)
+Skilled in Python, SQL, Power BI and Machine Learning with hands-on 
+experience building end-to-end analytics projects — retail sales 
+analysis, customer churn prediction and RFM segmentation.
+Passionate about turning raw data into actionable business insights.
+🔍 Open to Data Analyst / Business Analyst roles — Immediate Joiner
 </p>
 </p>
 
